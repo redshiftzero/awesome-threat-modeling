@@ -1,5 +1,5 @@
 # awesome-threat-modeling
-A curated list of useful threat modeling resources.
+A curated list of useful threat modeling and risk management resources.
 
 # Table of Contents
 1. [General](#general)
@@ -13,6 +13,7 @@ A curated list of useful threat modeling resources.
 
 * [OWASP page on Application Threat Modeling](https://www.owasp.org/index.php/Application_Threat_Modeling)
 * [OpenSAMM Threat Assessment](https://www.owasp.org/index.php/SAMM_-_Threat_Assessment_-_1)
+* [Microsoft threat modeling posts](https://blogs.msdn.microsoft.com/larryosterman/2007/10/01/some-final-thoughts-on-threat-modeling/)
 
 ## Data Flow Diagrams
 
@@ -42,6 +43,6 @@ Good tools for generating DFDs:
 * [Microsoft TMT](https://docs.microsoft.com/en-us/azure/security/azure-security-threat-modeling-tool)
 * [OWASP Threat Dragon](https://threatdragon.org/)
 * [Mozilla Seasponge](https://github.com/mozilla/seasponge)
-
-
+* [IriusRisk](https://continuumsecurity.net/threat-modeling-tool/)
+* [eramba](http://www.eramba.org/)
 
