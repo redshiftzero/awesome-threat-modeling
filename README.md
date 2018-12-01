@@ -1,5 +1,5 @@
 # awesome-threat-modeling
-A curated list of useful threat modeling and risk management resources.
+A curated list of useful threat modeling and risk management resources. Please feel free to contribute.
 
 # Table of Contents
 1. [General](#general)
@@ -17,7 +17,8 @@ A curated list of useful threat modeling and risk management resources.
 
 ## Data Flow Diagrams
 
-* [Example and explanation](https://www.cs.uct.ac.za/mit_notes/software/htmls/ch06s02.html)
+* [Presentation (PDF) with very good introduction to DFDs](https://people.eecs.berkeley.edu/~daw/teaching/cs261-f12/hws/Introduction_to_Threat_Modeling.pdf)
+* [DFD Example and explanation](https://www.cs.uct.ac.za/mit_notes/software/htmls/ch06s02.html)
 
 Good tools for generating DFDs:
 
@@ -37,6 +38,7 @@ Good tools for generating DFDs:
 ## Books
 
 * Shostack, [Threat Modeling: Designing for Security](https://www.amazon.com/Threat-Modeling-Designing-Adam-Shostack/dp/1118809998)
+* NIST, [Guide to Data-Centric System Threat Modeling](https://csrc.nist.gov/publications/detail/sp/800-154/draft)
 
 ## Tools
 
