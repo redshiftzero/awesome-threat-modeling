@@ -5,9 +5,10 @@ A curated list of useful threat modeling and risk management resources. Please f
 1. [General](#general)
 2. [Data Flow Diagrams](#data-flow-diagrams)
 3. [Threat Enumeration](#threat-enumeration)
-3. [Prioritization Methodologies](#prioritization-methodologies)
-3. [Books](#books)
-3. [Tools](#tools)
+4. [Prioritization Methodologies](#prioritization-methodologies)
+5. [Conference Talks](#conference-talks)
+6. [Books](#books)
+7. [Tools](#tools)
 
 ## General
 
@@ -35,6 +36,25 @@ Good tools for generating DFDs:
 
 * [DREAD (Damage, Reproducibility, Exploitability, Affected users, Discoverability)](https://wiki.openstack.org/wiki/Security/OSSA-Metrics#DREAD)
 
+## Conference Talks
+* [Rapid Threat Modeling](https://www.youtube.com/watch?v=4zxM1KhLXvI) - Akshay Aggarwal - Blackhat USA (2005)
+* [Elevation of Privilege: The easy way to threat model](https://www.youtube.com/watch?v=vEqu5fk9rlE) - Adam Shostack - Blackhat (2010)
+* [Threat Modeling Best Practices](https://www.youtube.com/watch?v=58Qga-ergBQ) - Robert Zigweid - AppSecUSA (2010)
+* [Threat Modeling: Lessons from Star Wars](https://www.youtube.com/watch?v=-2zvfevLnp4) - Adam Shostack - Brucon (2014)
+* [Incremental Threat Modeling](https://www.youtube.com/watch?v=WePVoeYrhpg) -  Irene Michlin - AppSecEU (2017)
+* [Threat Modeling with PASTA](https://www.youtube.com/watch?v=hHIgW8ZUi4A) - Tony UcedaVelez - AppSecEU (2017)
+* [Value Driven Threat Modeling](https://www.youtube.com/watch?v=3Fl_7FrM_gI) - Avi Douglen - AppSecUSA (2018)
+* [Threat Modeling Toolkit](https://www.youtube.com/watch?v=KGy_KCRUGd4) - Jonathan Marcil - AppSecCali (2018)
+* [Lessons From The Threat Modeling Trenches](https://www.youtube.com/watch?v=DEVt1Adybvs) - Brook Schoenfield - AppSecCali (2018)
+* [Threat Model as Code](https://www.youtube.com/watch?v=fT2-JuvK428) - Abhay Bhargav - AppSecUSA (2018)
+* [Threat Modeling at speed and scale](https://www.youtube.com/watch?v=5jyL-CHib54) - Stuart Winter-Tear - DevSecCon London (2018)
+* [Threat Modeling: uncover vulnerabilities without looking at code](https://www.youtube.com/watch?v=Fmp9UFjPiJs) - Chris Romeo - NDC (2018)
+* [Threat Modeling in 2018](https://www.youtube.com/watch?v=DMFF8zQqEVQ) - Adam Shostack - Blackhat USA (2018)
+* [Threat Modeling in 2019](https://www.youtube.com/watch?v=ZoxHIpzaZ6U) - Adam Shostack - RSA Conference (2019)
+* [Offensive Threat Models Against the Supply Chain](https://www.youtube.com/watch?v=J6o7YTnAqYg) - Tony UcedaVelez - AppSecCali (2019)
+* [Threat Model Every Story: Practical Continuous Threat Modeling Work for Your Team](https://www.youtube.com/watch?v=VbW-X0j35gw) - Izar Tarandach - AppSecCali (2019)
+* [Game On! Adding Privacy to Threat Modeling](https://www.youtube.com/watch?v=uzOdpuAhr28) - Adam Shostack, Mark Vinkovits - AppSecCali (2019)
+
 ## Books
 
 * Shostack, [Threat Modeling: Designing for Security](https://www.amazon.com/Threat-Modeling-Designing-Adam-Shostack/dp/1118809998)
@@ -47,4 +67,8 @@ Good tools for generating DFDs:
 * [Mozilla Seasponge](https://github.com/mozilla/seasponge)
 * [IriusRisk](https://continuumsecurity.net/threat-modeling-tool/)
 * [eramba](http://www.eramba.org/)
-
+* [Elevation of Privilege (EoP) Threat Modeling Card Game](http://www.microsoft.com/en-us/download/details.aspx?id=20303)
+* [Threat Playbook](https://we45.gitbook.io/threatplaybook/)
+* [pytm](https://github.com/izar/pytm)
+* [ThreatSpec](https://threatspec.org/)
+* [Threat Model SDK](https://github.com/stevespringett/threatmodel-sdk)
