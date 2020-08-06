@@ -54,6 +54,7 @@ Good tools for generating DFDs:
 * [Offensive Threat Models Against the Supply Chain](https://www.youtube.com/watch?v=J6o7YTnAqYg) - Tony UcedaVelez - AppSecCali (2019)
 * [Threat Model Every Story: Practical Continuous Threat Modeling Work for Your Team](https://www.youtube.com/watch?v=VbW-X0j35gw) - Izar Tarandach - AppSecCali (2019)
 * [Game On! Adding Privacy to Threat Modeling](https://www.youtube.com/watch?v=uzOdpuAhr28) - Adam Shostack, Mark Vinkovits - AppSecCali (2019)
+* [Adaptive Threat Modeling](https://www.youtube.com/watch?v=YTtO_TGV2fU) - Aaron Bedra - GOTO Chicago (2017)
 
 ## Books
 
