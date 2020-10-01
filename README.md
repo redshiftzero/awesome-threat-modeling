@@ -38,7 +38,7 @@ Good tools for generating DFDs:
 
 ## Conference Talks
 * [Rapid Threat Modeling](https://www.youtube.com/watch?v=4zxM1KhLXvI) - Akshay Aggarwal - Blackhat USA (2005)
-* [Elevation of Privilege: The easy way to threat model](https://www.youtube.com/watch?v=vEqu5fk9rlE) - Adam Shostack - Blackhat (2010)
+* Elevation of Privilege: The easy way to threat model [Part 1](https://www.youtube.com/watch?v=gZh5acJuNVg) and [Part 2](https://www.youtube.com/watch?v=uDtVBoj9VpQ) - Adam Shostack - Blackhat (2010)
 * [Threat Modeling Best Practices](https://www.youtube.com/watch?v=58Qga-ergBQ) - Robert Zigweid - AppSecUSA (2010)
 * [Threat Modeling: Lessons from Star Wars](https://www.youtube.com/watch?v=-2zvfevLnp4) - Adam Shostack - Brucon (2014)
 * [Incremental Threat Modeling](https://www.youtube.com/watch?v=WePVoeYrhpg) -  Irene Michlin - AppSecEU (2017)
