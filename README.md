@@ -73,3 +73,4 @@ Good tools for generating DFDs:
 * [pytm](https://github.com/izar/pytm)
 * [ThreatSpec](https://threatspec.org/)
 * [Threat Model SDK](https://github.com/stevespringett/threatmodel-sdk)
+* [TaaC-AI](https://github.com/yevh/TaaC-AI)
